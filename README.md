@@ -21,6 +21,13 @@ params = {
     "min_samples_leaf": 40,
     "criterion": "entropy",
 }
+For spam dataset (80.20% accuracy):
+
+params = {
+    "max_depth": 5,
+    "min_samples_leaf": 40,
+    "criterion": "entropy",
+}
 
 
 
