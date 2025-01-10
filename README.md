@@ -20,8 +20,8 @@ For titanic to give 78.78% accuracy you should change
 the params to :
 ```python
 if __name__ == "__main__":
- #dataset = "titanic"
- dataset = "spam"
+ dataset = "titanic"
+ #dataset = "spam"
  params = {
  "max_depth": 5,
  "min_samples_leaf": 40,
