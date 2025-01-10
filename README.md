@@ -45,6 +45,9 @@ if __name__ == "__main__":
  ```
 # File Sharing System Project
 
+## Overview 
+Developed comprehensive end-to-end encrypted file sharing system 
+
 E2EE File Sharing System | Golang : https://gitfront.io/r/fauti/oKjwY9KgsX5P/A-Secure-File-Sharing-System/
 
 # Traceroute Implementation Project
