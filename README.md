@@ -56,3 +56,12 @@ Database Query Optimizer and Join Algorithms| Java, Database Systems : https://g
 
 # Concurrency Control and Lock Management Project
 Concurrency Control and Lock Management System | java, Database Systems : https://gitfront.io/r/fauti/hymZXTT1arkK/Concurrency-Lock/
+
+# Neural Network Training with PyTorch
+
+## Overview  
+Implemented and trained multiple neural network architectures from scratch using PyTorch, focusing on the effects of learning rate, model depth, and batch size. The project includes well-documented notebooks and experiments on datasets like Iris, showcasing hands-on application of deep learning techniques.
+
+## Link  
+[Neural Network Training with PyTorch | Python, PyTorch, Colab](https://github.com/Fatemeh110/Neural-Networks-training/tree/main)
+
