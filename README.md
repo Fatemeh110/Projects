@@ -51,8 +51,8 @@ Developed comprehensive end-to-end encrypted file sharing system
 ## Link
 E2EE File Sharing System | Golang : https://gitfront.io/r/fauti/oKjwY9KgsX5P/A-Secure-File-Sharing-System/
 
-# Traceroute Implementation Project
-Traceroute Implementation | Python : https://gitfront.io/r/fauti/NiiJwJpbmmrC/project2-traceroute-Fatemeh110/
+# Database Query Optimizer and Join Algorithms
+Database Query Optimizer and Join Algorithms| Java, Database Systems : https://gitfront.io/r/fauti/2NVuc6cU9cij/Database-Query-Optimizer-and-Join-Algorithms/
 
 # Concurrency Control and Lock Management Project
 Concurrency Control and Lock Management System | java, Database Systems : https://gitfront.io/r/fauti/hymZXTT1arkK/Concurrency-Lock/
