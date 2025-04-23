@@ -1,3 +1,4 @@
+# Projects
 # Decision Tree Project
 
 ## Overview
@@ -43,7 +44,7 @@ if __name__ == "__main__":
  }
  N = 20
  ```
-# Projects
+
 
 ## Neural Network Training with PyTorch
 Implemented and trained multiple neural network architectures from scratch using PyTorch, focusing on the effects of learning rate, model depth, and batch size. Includes experiments on datasets like Iris.
@@ -77,26 +78,3 @@ Built a lock manager supporting multiple lock types, queuing, and two-phase lock
 Custom implementation of Decision Tree and Random Forest classifiers in Python. Achieved 78.78% accuracy on Titanic and 80.20% on spam detection datasets.
 
 **Link:** [Decision Trees & Random Forest Classifiers | Python, scikit-learn](https://github.com/Fatemeh110/Decision-Tree-Classifier)
-
-# File Sharing System Project
-
-## Overview 
-Developed comprehensive end-to-end encrypted file sharing system 
-
-## Link
-E2EE File Sharing System | Golang : https://gitfront.io/r/fauti/oKjwY9KgsX5P/A-Secure-File-Sharing-System/
-
-# Database Query Optimizer and Join Algorithms
-Database Query Optimizer and Join Algorithms| Java, Database Systems : https://gitfront.io/r/fauti/2NVuc6cU9cij/Database-Query-Optimizer-and-Join-Algorithms/
-
-# Concurrency Control and Lock Management Project
-Concurrency Control and Lock Management System | java, Database Systems : https://gitfront.io/r/fauti/hymZXTT1arkK/Concurrency-Lock/
-
-# Neural Network Training with PyTorch
-
-## Overview  
-Implemented and trained multiple neural network architectures from scratch using PyTorch, focusing on the effects of learning rate, model depth, and batch size. The project includes well-documented notebooks and experiments on datasets like Iris, showcasing hands-on application of deep learning techniques.
-
-## Link  
-[Neural Network Training with PyTorch | Python, PyTorch, Colab](https://github.com/Fatemeh110/Neural-Networks-training/tree/main)
-
